@@ -32,9 +32,6 @@ R. Mukherjee, K. Jha. *Pacific-Asia Conference on Knowledge Discovery and Data M
 **Context-Aware Contrastive Representation Learning for Zero-Shot Biomedical Text Classification**  
 R. Mukherjee, K. Jha. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024.  
 
-**Dr. Albert Kim Acousto-Bioelectronics**  
-M. Rahman, R. Hewitt, B. I. Morshed, M. R. Kabir, S. Ray, P. D. Layers, R. Mukherjee et al., 2023.  
-
 **MOSFET-Based H-Bridge Inverter for Wirelessly Charging Implantable Medical Devices**  
 N. I. Hossain, T. Noushin, R. Mukherjee, M. Hannoun, S. Tabassum. *IEEE 16th Dallas Circuits and Systems Conference (DCAS)*, 2023.  
 
@@ -54,9 +51,7 @@ R. Mukherjee, S. S. Dhar, K. Tara. *2nd International Conference on Electrical &
 
 ## 💻 Tech Stack  
 - **Languages:** Python, SQL, JavaScript, C++  
-- **Frameworks:** PyTorch, TensorFlow, DGL, Scikit-learn  
-- **Tools:** Git, LaTeX, Overleaf, Docker  
-- **Data:** PubMed, MeSH, UMLS  
+- **Frameworks:** PyTorch, TensorFlow, DGL, Scikit-learn   
 
 ---
 
